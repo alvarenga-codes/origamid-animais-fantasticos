@@ -1,5 +1,5 @@
 {
-  "name": "Animais fantasticos",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,6 +7,22 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^9.39.2"
-  }
+    "eslint": "^9.39.2",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarenga-codes/origamid-animais-fantasticos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/alvarenga-codes/origamid-animais-fantasticos/issues"
+  },
+  "homepage": "https://github.com/alvarenga-codes/origamid-animais-fantasticos#readme",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  },
+  "description": ""
 }
