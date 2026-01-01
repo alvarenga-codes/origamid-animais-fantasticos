@@ -26,5 +26,8 @@
     "url": "https://github.com/alvarenga-codes/origamid-animais-fantasticos/issues"
   },
   "homepage": "https://github.com/alvarenga-codes/origamid-animais-fantasticos#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@babel/runtime": "^7.28.4"
+  }
 }
